@@ -1,0 +1,8 @@
+.brick-cont{
+    width: 200px;
+    height:250px ;
+    background-color: aqua;
+    margin: 5px;
+    font-size: 40px;
+    font-weight: bold;
+}

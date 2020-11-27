@@ -1,0 +1,19 @@
+.coll{
+    height: 100vh;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color_box{
+    width: 400px;
+    height: 250px;
+    border: 5px #000000 solid;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
